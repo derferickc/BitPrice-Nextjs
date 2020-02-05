@@ -1,4 +1,4 @@
-<img src="https://firebasestorage.googleapis.com/v0/b/pixabay-search-app.appspot.com/o/coinbase-logo.png?alt=media&token=5557492c-b5d3-4879-bef8-5201309f492d" title="coindesk logo" alt="coindesk logo">
+<img src="https://firebasestorage.googleapis.com/v0/b/pixabay-search-app.appspot.com/o/coinbase-logo.png?alt=media&token=5557492c-b5d3-4879-bef8-5201309f492d" title="coindesk logo" alt="coindesk logo" width="200">
 
 # BitPrice App 
 
